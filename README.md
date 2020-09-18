@@ -3,7 +3,7 @@
 <!--
 **Crmaxis/Crmaxis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on Javascript
 - 🌱 I’m currently learning Node js
@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: cristhian.mahecha@outlook.com
 - ⚡ Fun fact: I love drawing and programming
 
+<br>
+<br>
 
 ### Languages and Tools:
 
