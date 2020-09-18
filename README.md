@@ -8,13 +8,15 @@
 <br>
 <br>
 
+<div padding-left="20px">
 - 🔭 I’m currently working on Javascript 
 - 🌱 I’m currently learning Node js
 - 👯 I’m looking to collaborate on with other content creators
 - 💬 Ask me about Javascript
 - 📫 How to reach me: cristhian.mahecha@outlook.com
 - ⚡ Fun fact: I love drawing and programming
-
+<div>
+  
 <br>
 <br>
 <br>
