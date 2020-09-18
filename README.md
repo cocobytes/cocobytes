@@ -4,6 +4,8 @@
 **Crmaxis/Crmaxis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+![Imagen Paso 1](https://raw.githubusercontent.com/Crmaxis/AssetsInfo/master/asset/code.gif)
+
 
 - 🔭 I’m currently working on Javascript
 - 🌱 I’m currently learning Node js
