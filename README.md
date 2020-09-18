@@ -8,7 +8,7 @@
 <br>
 <br>
 
-<div style="padding-left='50px';">
+<div>
 - 🔭 I’m currently working on Javascript 
 - 🌱 I’m currently learning Node js
 - 👯 I’m looking to collaborate on with other content creators
