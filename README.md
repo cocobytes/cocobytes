@@ -5,8 +5,6 @@
 -->
 <img align="left" alt="Visual Studio Code" width="380px" src="https://raw.githubusercontent.com/Crmaxis/AssetsInfo/master/asset/code.gif"/>
 
-<br>
-<br>
 
 <div>
   
