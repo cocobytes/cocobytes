@@ -9,6 +9,7 @@
 <br>
 
 <div>
+  
 - 🔭 I’m currently working on Javascript
   
 - 🌱 I’m currently learning Node js 
@@ -20,6 +21,7 @@
 - 📫 How to reach me: cristhian.mahecha@outlook.com
 
 - ⚡ Fun fact: I love drawing and programming
+
 <div>
   
 <br>
