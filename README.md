@@ -5,6 +5,9 @@
 -->
 <img align="left" alt="Visual Studio Code" width="380px" src="https://raw.githubusercontent.com/Crmaxis/AssetsInfo/master/asset/code.gif"/>
 
+<br>
+<br>
+
 - 🔭 I’m currently working on Javascript 
 - 🌱 I’m currently learning Node js
 - 👯 I’m looking to collaborate on with other content creators
@@ -18,6 +21,9 @@
 <br>
 <br>
 <br>
+<br>
+<br>
+
 
 ### Languages and Tools:
 
