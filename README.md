@@ -3,7 +3,7 @@
 <!--
 **Crmaxis/Crmaxis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<img align="left" alt="Visual Studio Code" width="200px" src="https://raw.githubusercontent.com/Crmaxis/AssetsInfo/master/asset/code.gif"/>
+<img align="left" alt="Visual Studio Code" width="350px" src="https://raw.githubusercontent.com/Crmaxis/AssetsInfo/master/asset/code.gif"/>
 
 - 🔭 I’m currently working on Javascript 
 - 🌱 I’m currently learning Node js
