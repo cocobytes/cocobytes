@@ -39,7 +39,7 @@
 <img align="left" alt="Materialize" width="45px" src="https://seeklogo.com/images/M/materialize-logo-0FCAD8A6F8-seeklogo.com.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="GitHub" width="50px" src="https://www.lomasnuevo.net/wp-contentupl/2017/07/nodejs_logo.png" />
-<img align="left" alt="GitHub" width="40px" src="https://victorroblesweb.es/wp-content/uploads/2016/11/mongodb.png" />
+<img align="left" alt="GitHub" width="40px" src="https://www.bacula.lat/wp-content/uploads/2020/02/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png" />
 <img align="left" alt="GitHub" width="26px" src="https://images.vexels.com/media/users/3/166470/isolated/preview/73835fa38fba6d35aff9de603dc5044a-icono-de-lenguaje-de-programaci--n-php-by-vexels.png" />
 <img align="left" alt="GitHub" width="26px" src="https://serv3.raiolanetworks.es/blog/wp-content/uploads/mysqloptimizar1.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
