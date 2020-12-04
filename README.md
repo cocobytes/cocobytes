@@ -51,5 +51,5 @@
 <img align="left" alt="Mongodb" width="70px" src="https://www.bacula.lat/wp-content/uploads/2020/02/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png" />
 <img align="left" alt="Php" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" />
 <img align="left" alt="Mysql" width="43px" src="https://serv3.raiolanetworks.es/blog/wp-content/uploads/mysqloptimizar1.png" />
-<img align="left" alt="Mysql" width="43px" src="https://images.vexels.com/media/users/3/166477/isolated/preview/9bb722f0e85ddbc1ce0f064534fd2311---cono-del-lenguaje-de-programaci--n-python-by-vexels.png" />
+<img align="left" alt="Mysql" width="30px" src="https://images.vexels.com/media/users/3/166477/isolated/preview/9bb722f0e85ddbc1ce0f064534fd2311---cono-del-lenguaje-de-programaci--n-python-by-vexels.png" />
 
