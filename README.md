@@ -41,6 +41,6 @@
 <img align="left" alt="GitHub" width="50px" src="https://www.lomasnuevo.net/wp-contentupl/2017/07/nodejs_logo.png" />
 <img align="left" alt="GitHub" width="70px" src="https://www.bacula.lat/wp-content/uploads/2020/02/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png" />
 <img align="left" alt="GitHub" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" />
-<img align="left" alt="GitHub" width="26px" src="https://serv3.raiolanetworks.es/blog/wp-content/uploads/mysqloptimizar1.png" />
+<img align="left" alt="GitHub" width="40px" src="https://serv3.raiolanetworks.es/blog/wp-content/uploads/mysqloptimizar1.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
