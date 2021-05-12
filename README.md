@@ -29,7 +29,7 @@
 
 ---
 
-### Tools:
+### Herramientas:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="FIGMA" width="50px" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/237/landscape/figma-1-logo.png" />
@@ -38,7 +38,7 @@
 
 <br>
 
-### Languages:
+### Tecnologias:
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -54,7 +54,7 @@
 
 <br>
 
-### Databases:
+### Base de datos:
 
 <img align="left" alt="Mongodb" width="90px" src="https://www.bacula.lat/wp-content/uploads/2020/02/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png" />
 <img align="left" alt="Mysql" width="50px" src="https://serv3.raiolanetworks.es/blog/wp-content/uploads/mysqloptimizar1.png" />
