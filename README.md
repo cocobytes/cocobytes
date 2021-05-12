@@ -53,4 +53,5 @@
 <img align="left" alt="Mysql" width="43px" src="https://serv3.raiolanetworks.es/blog/wp-content/uploads/mysqloptimizar1.png" />
 <img align="left" alt="Mysql" width="30px" src="https://images.vexels.com/media/users/3/166477/isolated/preview/9bb722f0e85ddbc1ce0f064534fd2311---cono-del-lenguaje-de-programaci--n-python-by-vexels.png" />
 <img align="left" alt="Mysql" width="38px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/200px-Laravel.svg.png" />
+<img align="left" alt="Mysql" width="38px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" />
 
