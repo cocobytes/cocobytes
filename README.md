@@ -57,5 +57,5 @@
 ### Databases:
 
 <img align="left" alt="Mongodb" width="100px" src="https://www.bacula.lat/wp-content/uploads/2020/02/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png" />
-<img align="left" alt="Mysql" width="70px" src="https://serv3.raiolanetworks.es/blog/wp-content/uploads/mysqloptimizar1.png" />
+<img align="left" alt="Mysql" width="50px" src="https://serv3.raiolanetworks.es/blog/wp-content/uploads/mysqloptimizar1.png" />
 
