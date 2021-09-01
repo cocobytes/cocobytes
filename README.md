@@ -1,18 +1,43 @@
 ### Hi there 👋
 
-<!--
-**Crmaxis/Crmaxis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-<img align="left" alt="Visual Studio Code" width="380px" src="https://egghead.io/_next/image?url=https%3A%2F%2Fd2eip9sf3oo6c2.cloudfront.net%2Fplaylists%2Fsquare_covers%2F000%2F432%2F627%2Ffull%2FEGH_ngrxAngular_Final.png&w=256&q=100"/>
 
-<br>
-
-  
-<br>
+<img align="left" alt="Visual Studio Code" width="45%" src="https://i.pinimg.com/564x/a8/1e/17/a81e177e60f99e1ff18b67df03e56f3c.jpg"/>
+<img align="left" alt="Visual Studio Code" width="50px" src="https://egghead.io/_next/image?url=https%3A%2F%2Fd2eip9sf3oo6c2.cloudfront.net%2Fplaylists%2Fsquare_covers%2F000%2F432%2F708%2Fthumb%2FEGH_Angular-Universal_1000.png&w=96&q=75"/>
+      SEO Friendly Progressive Web Applications with Angular Universal
 <br>
 <br>
 
----
+
+<img align="left" alt="Visual Studio Code" width="50px" src="https://egghead.io/_next/image?url=https%3A%2F%2Fd2eip9sf3oo6c2.cloudfront.net%2Fplaylists%2Fsquare_covers%2F000%2F432%2F474%2Fthumb%2FEGH-angular-components__1000px.png&w=96&q=75"/>
+      Create Dynamic Components in Angular
+<br>
+<br>
+
+
+<img align="left" alt="Visual Studio Code" width="50px" src="https://egghead.io/_next/image?url=https%3A%2F%2Fd2eip9sf3oo6c2.cloudfront.net%2Fplaylists%2Fsquare_covers%2F000%2F432%2F682%2Fthumb%2FEGH_Angular_2_Animations.png&w=96&q=75"/>      
+      Animate Angular Web Applications
+<br>
+<br>
+
+
+<img align="left" alt="Visual Studio Code" width="50px" src="https://egghead.io/_next/image?url=https%3A%2F%2Fd2eip9sf3oo6c2.cloudfront.net%2Fplaylists%2Fsquare_covers%2F000%2F432%2F688%2Fthumb%2FEGH_AngularUI_Final.png&w=96&q=75"/>      
+      Building Angular Components
+ <br>
+<br>
+
+
+<img align="left" alt="Visual Studio Code" width="50px" src="https://egghead.io/_next/image?url=https%3A%2F%2Fd2eip9sf3oo6c2.cloudfront.net%2Fplaylists%2Fsquare_covers%2F000%2F432%2F456%2Fthumb%2FEGH_AngularElements_Final.png&w=96&q=75"/>      
+      Advanced Angular Component Patterns
+      
+      
+<br>
+<br>
+<br>
+<br>
+<br>
+ <br>
+ <br>
+
 
 ### Herramientas:
 
