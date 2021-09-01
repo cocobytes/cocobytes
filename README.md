@@ -3,25 +3,10 @@
 <!--
 **Crmaxis/Crmaxis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<img align="left" alt="Visual Studio Code" width="380px" src="https://raw.githubusercontent.com/Crismaxis/AssetsInfo/master/asset/code.gif"/>
+<img align="left" alt="Visual Studio Code" width="380px" src="https://egghead.io/_next/image?url=https%3A%2F%2Fd2eip9sf3oo6c2.cloudfront.net%2Fplaylists%2Fsquare_covers%2F000%2F432%2F627%2Ffull%2FEGH_ngrxAngular_Final.png&w=256&q=100"/>
 
 <br>
 
-<div>
-  
-    🔭 I’m currently working on Javascript
-  
-    🌱 I’m currently learning Node js 
-
-    👯 I’m looking to collaborate on with other content creators
-
-    💬 Ask me about Javascript <br>
-
-    📫 How to reach me: cristhian.mahecha@outlook.com
-
-    ⚡ Fun fact: I love drawing and programming
-
-<div>
   
 <br>
 <br>
