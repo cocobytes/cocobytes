@@ -1,6 +1,8 @@
+## Hola, un gusto verte por aqui 👋 !
+
 <img align="left" alt="Visual Studio Code" width="60%" src="https://i.pinimg.com/originals/1b/1a/a0/1b1aa0993720fe25b984557d596212a5.gif"/>
 
-## Habilidades frontend
+## ✨Habilidades frontend✨
 <br>
 
 <img align="left" alt="Visual Studio Code" width="30px" src="https://image.flaticon.com/icons/png/512/1216/1216733.png"/>Html5
@@ -30,7 +32,7 @@
 
 <img align="right" alt="Visual Studio Code" width="50%" src="https://i.pinimg.com/originals/97/f6/12/97f612ed63ab4a50972b32ec891cb4dc.gif"/>
 
-## Habilidades Backend
+## ✨Habilidades Backend✨
 <br>
 
 <img align="left" alt="Visual Studio Code" width="30px" src="https://www.designbust.com/download/240/png/php_icon512.png"/>Php
