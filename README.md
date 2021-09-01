@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 <img align="left" alt="Visual Studio Code" width="40%" src="https://i.pinimg.com/564x/a8/1e/17/a81e177e60f99e1ff18b67df03e56f3c.jpg"/>
 <br>
 
