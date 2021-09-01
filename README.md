@@ -1,4 +1,4 @@
-<img align="left" alt="Visual Studio Code" width="55%" src="https://i.pinimg.com/originals/1b/1a/a0/1b1aa0993720fe25b984557d596212a5.gif"/>
+<img align="left" alt="Visual Studio Code" width="60%" src="https://i.pinimg.com/originals/1b/1a/a0/1b1aa0993720fe25b984557d596212a5.gif"/>
 
 ## Habilidades frontend
 <br>
