@@ -1,71 +1,29 @@
-<img align="left" alt="Visual Studio Code" width="40%" src="https://i.pinimg.com/564x/a8/1e/17/a81e177e60f99e1ff18b67df03e56f3c.jpg"/>
+<img align="left" alt="Visual Studio Code" width="55%" src="https://i.pinimg.com/originals/1b/1a/a0/1b1aa0993720fe25b984557d596212a5.gif"/>
+
+## Habilidades frontend
 <br>
 
-<img align="left" alt="Visual Studio Code" width="50px" src="https://egghead.io/_next/image?url=https%3A%2F%2Fd2eip9sf3oo6c2.cloudfront.net%2Fplaylists%2Fsquare_covers%2F000%2F432%2F708%2Fthumb%2FEGH_Angular-Universal_1000.png&w=96&q=75"/>
-      SEO Friendly Progressive Web Applications
-      with Angular Universal
-<br>
+<img align="left" alt="Visual Studio Code" width="30px" src="https://image.flaticon.com/icons/png/512/1216/1216733.png"/>Html5
 <br>
 
-<img align="left" alt="Visual Studio Code" width="50px" src="https://egghead.io/_next/image?url=https%3A%2F%2Fd2eip9sf3oo6c2.cloudfront.net%2Fplaylists%2Fsquare_covers%2F000%2F432%2F474%2Fthumb%2FEGH-angular-components__1000px.png&w=96&q=75"/>
-      Create Dynamic Components in Angular
-<br>
+<img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"/>Css3
 <br>
 
-
-<img align="left" alt="Visual Studio Code" width="50px" src="https://egghead.io/_next/image?url=https%3A%2F%2Fd2eip9sf3oo6c2.cloudfront.net%2Fplaylists%2Fsquare_covers%2F000%2F432%2F682%2Fthumb%2FEGH_Angular_2_Animations.png&w=96&q=75"/>      
-      Animate Angular Web Applications
-<br>
+<img align="left" alt="Visual Studio Code" width="30px" src="https://i.stack.imgur.com/C9301.png"/>Bootstrap
 <br>
 
-
-<img align="left" alt="Visual Studio Code" width="50px" src="https://egghead.io/_next/image?url=https%3A%2F%2Fd2eip9sf3oo6c2.cloudfront.net%2Fplaylists%2Fsquare_covers%2F000%2F432%2F688%2Fthumb%2FEGH_AngularUI_Final.png&w=96&q=75"/>      
-      Building Angular Components
- <br>
+<img align="left" alt="Visual Studio Code" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn0Du7wVG5DA94RvOY3QGBjOo2cxkTfliCziV-svMEX2YacH1oFqWai4sywuPE4G-AcEA&usqp=CAU"/>TailwindCss
 <br>
 
-
-<img align="left" alt="Visual Studio Code" width="50px" src="https://egghead.io/_next/image?url=https%3A%2F%2Fd2eip9sf3oo6c2.cloudfront.net%2Fplaylists%2Fsquare_covers%2F000%2F432%2F456%2Fthumb%2FEGH_AngularElements_Final.png&w=96&q=75"/>      
-      Advanced Angular Component Patterns
-      
-      
-<br>
-<br>
-<br>
-<br>
-<br>
- <br>
- <br>
-
-
-### Herramientas:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="FIGMA" width="50px" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/237/landscape/figma-1-logo.png" />
-<img align="left" alt="Photoshop" width="30px" src="https://tallerinformatica29.files.wordpress.com/2015/05/logo_photoshop.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
+<img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png"/>Javascript
 <br>
 
-### Tecnologias:
-
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="Bootstrap" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" />
-<img align="left" alt="Materialize" width="45px" src="https://seeklogo.com/images/M/materialize-logo-0FCAD8A6F8-seeklogo.com.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Mysql" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" />
-<img align="left" alt="NodeJS" width="50px" src="https://miro.medium.com/max/3686/1*22I1ecGbrdPjGuKYTvkdWw.png" />
-<img align="left" alt="Php" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" />
-<img align="left" alt="Mysql" width="30px" src="https://images.vexels.com/media/users/3/166477/isolated/preview/9bb722f0e85ddbc1ce0f064534fd2311---cono-del-lenguaje-de-programaci--n-python-by-vexels.png" />
-<img align="left" alt="Mysql" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/200px-Laravel.svg.png" />
-
-
+<img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.worldvectorlogo.com/logos/typescript.svg"/>Typescript
 <br>
 
-### Base de datos:
+<img align="left" alt="Visual Studio Code" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPHfsT4r6b6oFHNm28Ve5p6gBf454QbJStZF1y0FbRMJHuyvPsWCS7cwglYp1hmpp3kQ8&usqp=CAU"/>Angular
+<br>
 
-<img align="left" alt="Mongodb" width="90px" src="https://www.bacula.lat/wp-content/uploads/2020/02/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png" />
-<img align="left" alt="Mysql" width="50px" src="https://serv3.raiolanetworks.es/blog/wp-content/uploads/mysqloptimizar1.png" />
-
+<img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/vue-282497.png"/>VueJS
+<br>
+<br>
