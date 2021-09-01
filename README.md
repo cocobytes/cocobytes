@@ -13,17 +13,16 @@ Currently I develop static, dynamic and administrative websites, applying softwa
 
 ## Technology
 
-<p align="left">
-  <img align="left" width="23px" src="https://thumbs.dreamstime.com/b/controle-el-icono-vector-de-la-marca-cotejo-s-mbolo-aprobado-aceptable-compruebe-muestra-del-bot-n-se-al-checkpoint-mejor-150871913.jpg">Html/Css/Javascript
-  <br>
-  <img align="left" width="23px" src="https://thumbs.dreamstime.com/b/controle-el-icono-vector-de-la-marca-cotejo-s-mbolo-aprobado-aceptable-compruebe-muestra-del-bot-n-se-al-checkpoint-mejor-150871913.jpg">Javascript/Typescript
-  <br>
-  <img align="left" width="23px" src="https://thumbs.dreamstime.com/b/controle-el-icono-vector-de-la-marca-cotejo-s-mbolo-aprobado-aceptable-compruebe-muestra-del-bot-n-se-al-checkpoint-mejor-150871913.jpg">Bootstrap/Materialize/Bulma/TailwindCss
-  <br>
-  <img align="left" width="23px" src="https://thumbs.dreamstime.com/b/controle-el-icono-vector-de-la-marca-cotejo-s-mbolo-aprobado-aceptable-compruebe-muestra-del-bot-n-se-al-checkpoint-mejor-150871913.jpg">Angular
-  <br>
-  <img align="left" width="23px" src="https://thumbs.dreamstime.com/b/controle-el-icono-vector-de-la-marca-cotejo-s-mbolo-aprobado-aceptable-compruebe-muestra-del-bot-n-se-al-checkpoint-mejor-150871913.jpg">VueJs 
-<p>
+<img align="left" width="23px" src="https://thumbs.dreamstime.com/b/controle-el-icono-vector-de-la-marca-cotejo-s-mbolo-aprobado-aceptable-compruebe-muestra-del-bot-n-se-al-checkpoint-mejor-150871913.jpg">Html/Css/Javascript
+<br>
+<img align="left" width="23px" src="https://thumbs.dreamstime.com/b/controle-el-icono-vector-de-la-marca-cotejo-s-mbolo-aprobado-aceptable-compruebe-muestra-del-bot-n-se-al-checkpoint-mejor-150871913.jpg">Javascript/Typescript
+<br>
+<img align="left" width="23px" src="https://thumbs.dreamstime.com/b/controle-el-icono-vector-de-la-marca-cotejo-s-mbolo-aprobado-aceptable-compruebe-muestra-del-bot-n-se-al-checkpoint-mejor-150871913.jpg">Bootstrap/Materialize/Bulma/TailwindCss
+<br>
+<img align="left" width="23px" src="https://thumbs.dreamstime.com/b/controle-el-icono-vector-de-la-marca-cotejo-s-mbolo-aprobado-aceptable-compruebe-muestra-del-bot-n-se-al-checkpoint-mejor-150871913.jpg">Angular
+<br>
+<img align="left" width="23px" src="https://thumbs.dreamstime.com/b/controle-el-icono-vector-de-la-marca-cotejo-s-mbolo-aprobado-aceptable-compruebe-muestra-del-bot-n-se-al-checkpoint-mejor-150871913.jpg">VueJs 
+
  
 
   
