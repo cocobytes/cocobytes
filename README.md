@@ -6,6 +6,7 @@
       SEO Friendly Progressive Web Applications with Angular Universal
 <br>
 <br>
+<br>
 
 
 <img align="left" alt="Visual Studio Code" width="50px" src="https://egghead.io/_next/image?url=https%3A%2F%2Fd2eip9sf3oo6c2.cloudfront.net%2Fplaylists%2Fsquare_covers%2F000%2F432%2F474%2Fthumb%2FEGH-angular-components__1000px.png&w=96&q=75"/>
