@@ -6,8 +6,6 @@
 
 I am currently a frontend-Angular developer with more than 2 years in the development field, I am a computer systems technology student, currently studying 6 months and my goal is to lead a professional systems development team, my skills are: ◾ Web development, ◾ Layout, ◾ Web design, ◾ UI/UX design
 
-<br>
-
 ## Technology
 
 <img align="left" width="23px" src="https://thumbs.dreamstime.com/b/controle-el-icono-vector-de-la-marca-cotejo-s-mbolo-aprobado-aceptable-compruebe-muestra-del-bot-n-se-al-checkpoint-mejor-150871913.jpg">Html/Css/Javascript
@@ -19,6 +17,7 @@ I am currently a frontend-Angular developer with more than 2 years in the develo
 <img align="left" width="23px" src="https://thumbs.dreamstime.com/b/controle-el-icono-vector-de-la-marca-cotejo-s-mbolo-aprobado-aceptable-compruebe-muestra-del-bot-n-se-al-checkpoint-mejor-150871913.jpg">Angular
 
 <img align="left" width="23px" src="https://thumbs.dreamstime.com/b/controle-el-icono-vector-de-la-marca-cotejo-s-mbolo-aprobado-aceptable-compruebe-muestra-del-bot-n-se-al-checkpoint-mejor-150871913.jpg">VueJs 
+<br>
 <br>
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cocobytes)](https://github.com/anuraghazra/github-readme-stats)
