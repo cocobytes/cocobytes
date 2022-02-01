@@ -5,7 +5,7 @@ I am currently a web designer with more than 2 years in the development field, I
 
 ## Technology
 
-<img align="left" width="23px" src="https://thumbs.dreamstime.com/b/controle-el-icono-vector-de-la-marca-cotejo-s-mbolo-aprobado-aceptable-compruebe-muestra-del-bot-n-se-al-checkpoint-mejor-150871913.jpg">Html/Css/Javascript
+<img align="left" width="23px" src="https://thumbs.dreamstime.com/b/controle-el-icono-vector-de-la-marca-cotejo-s-mbolo-aprobado-aceptable-compruebe-muestra-del-bot-n-se-al-checkpoint-mejor-150871913.jpg">Html/Css/Sass
 
 <img align="left" width="23px" src="https://thumbs.dreamstime.com/b/controle-el-icono-vector-de-la-marca-cotejo-s-mbolo-aprobado-aceptable-compruebe-muestra-del-bot-n-se-al-checkpoint-mejor-150871913.jpg">Javascript/Typescript
 
